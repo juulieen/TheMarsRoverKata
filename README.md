@@ -1,5 +1,7 @@
 # The Mars Rover Kata
 
+The exercice was for me to do the Kata described [here](./MarsRoverKata.md).
+
 ## Simple Script
 
 A node js script that do the job but isn't tested at all.
