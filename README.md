@@ -9,3 +9,20 @@ You can try it as follow:
 ```shell
 cat samples/input_example.txt | node easy_solution_script/script.js
 ```
+
+## C Version
+
+Compile and Run
+
+```shell
+make
+cat samples/input_example.txt | ./TheMarsRover
+```
+
+Run the Tests
+
+> You will need to install the [Criterion Librarie](https://github.com/Snaipe/Criterion)
+
+```shell
+make tests_run
+```
